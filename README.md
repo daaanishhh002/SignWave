@@ -1,6 +1,6 @@
 <h1 align="center">
   🖐️ Hand Gesture Recognition for Sign Language 🤖🎤
-<\h1>
+</h1>
 Welcome to the **Hand Gesture Recognition System**! 🚀 This project aims to **bridge communication gaps** by recognizing sign language gestures in **real-time** using **flex sensors** and an **IMU6050** sensor embedded in gloves. The system translates gestures into **text** and converts them to **speech** for better accessibility. 🎙️💬
 
 ---
