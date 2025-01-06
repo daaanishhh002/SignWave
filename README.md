@@ -81,17 +81,17 @@ pip install -r requirements.txt
 ```
 
 ### 🌍 Future Enhancements
-✨ Deep Learning Model for improved accuracy
-✨ Real-time Streaming for live sign language translation
-✨ NLP-based contextual learning
-✨ AWS Cloud Integration for remote accessibility
+✨ Deep Learning Model for improved accuracy  
+✨ Real-time Streaming for live sign language translation  
+✨ NLP-based contextual learning  
+✨ AWS Cloud Integration for remote accessibility  
 
 ### 📜 License
 This project is open-source under the MIT License. Feel free to modify and contribute! 🎉
 
 ### 📞 Contact
 💡 Authors: Danish Ahmed, Syed Zeeshan, Syed Mubeen Ali, Shaik Abdul Sami  
-📧 Email: your-email@example.com
+📧 Email: your-email@example.com  
 🐙 GitHub: daaanishhh002
 
 
