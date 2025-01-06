@@ -90,10 +90,11 @@ pip install -r requirements.txt
 This project is open-source under the MIT License. Feel free to modify and contribute! 🎉
 
 ### 📞 Contact
-💡 Authors: Danish Ahmed, Syed Zeeshan, Syed Mubeen Ali, Shaik Abdul Sami
+💡 Authors: Danish Ahmed, Syed Zeeshan, Syed Mubeen Ali, Shaik Abdul Sami  
 📧 Email: your-email@example.com
 🐙 GitHub: daaanishhh002
 
-<text align="center">
+
+<p align="center">
   🌟 If you like this project, give it a star ⭐ on GitHub!
-</text>
+</p>
