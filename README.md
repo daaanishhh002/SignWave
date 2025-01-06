@@ -1,5 +1,5 @@
 <h1 align="center">
-  🖐️ Hand Gesture Recognition for Sign Language 🤖🎤
+  🖐️ SignWave - Where Gesture Speaks Volumes 🤖🎤
 </h1>
 
 Welcome to the **Hand Gesture Recognition System**! 🚀 This project aims to **bridge communication gaps** by recognizing sign language gestures in **real-time** using **flex sensors** and an **IMU6050** sensor embedded in gloves. The system translates gestures into **text** and converts them to **speech** for better accessibility. 🎙️💬
@@ -71,5 +71,29 @@ The following components are used to build the **gesture recognition glove**:
 
 1️⃣ **Clone the Repository**  
 ```bash
-git clone https://github.com/yourusername/gesture-recognition.git
+git clone https://github.com/daaanishhh002/gesture-recognition.git
 cd gesture-recognition
+```
+
+2️⃣ **Install Dependencies**
+```bash
+pip install -r requirements.txt
+```
+
+### 🌍 Future Enhancements
+✨ Deep Learning Model for improved accuracy
+✨ Real-time Streaming for live sign language translation
+✨ NLP-based contextual learning
+✨ AWS Cloud Integration for remote accessibility
+
+### 📜 License
+This project is open-source under the MIT License. Feel free to modify and contribute! 🎉
+
+### 📞 Contact
+💡 Authors: Danish Ahmed, Syed Zeeshan, Syed Mubeen Ali, Shaik Abdul Sami
+📧 Email: your-email@example.com
+🐙 GitHub: daaanishhh002
+
+<text align="center">
+  🌟 If you like this project, give it a star ⭐ on GitHub!
+</text>
