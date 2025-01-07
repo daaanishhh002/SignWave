@@ -71,8 +71,8 @@ The following components are used to build the **gesture recognition glove**:
 
 1️⃣ **Clone the Repository**  
 ```bash
-git clone https://github.com/daaanishhh002/gesture-recognition.git
-cd gesture-recognition
+git clone https://github.com/daaanishhh002/SignWave.git
+cd SignWave
 ```
 
 2️⃣ **Install Dependencies**
