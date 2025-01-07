@@ -20,13 +20,13 @@ Welcome to the **Hand Gesture Recognition System**! 🚀 This project aims to **
 
 The following components are used to build the **gesture recognition glove**:  
 
-| 🏷️ Component  | 🔧 Description |
+| 🔧 Component  | 🏷️ Description |
 |--------------|-------------|
 | 🧤 **Glove**  | Base for mounting sensors |
 | 🏗️ **Flex Sensors** | Detects finger bending |
 | 🎯 **IMU6050 (Accelerometer + Gyroscope)** | Tracks hand motion and orientation |
 | 🔌 **ESP32** | Microcontroller for processing signals |
-| 🔊 **Smart Phone** | Converts text to speech |
+| 📱 **Smart Phone** | Converts text to speech |
 | 🌐 **AWS EC2 (Future)** | Cloud-based processing |
 
 ---
@@ -42,7 +42,7 @@ The following components are used to build the **gesture recognition glove**:
 - `scikit-learn` ➜ Machine Learning model  
 - `TensorFlow / PyTorch` ➜ (Future deep learning integration)  
 - `speechRecognition` ➜ Text-to-Speech conversion  
-- `Flask / FastAPI` ➜ HTTP-based data transfer  
+- `Flask` ➜ Websocket-based data transfer  
 - `AWS SDK` ➜ Cloud deployment  
 
 ---
@@ -91,8 +91,8 @@ This project is open-source under the MIT License. Feel free to modify and contr
 
 ### 📞 Contact
 💡 Authors: Danish Ahmed, Syed Zeeshan, Syed Mubeen Ali, Shaik Abdul Sami  
-📧 Email: your-email@example.com  
-🐙 GitHub: daaanishhh002
+📧 Email: ahmed.daanish002@gmail.com  
+🐙 GitHub: daaanishhh002  
 
 
 <p align="center">
