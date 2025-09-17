@@ -28,14 +28,16 @@ The following components are used to build the gesture recognition glove:
 | IMU6050 (Accelerometer + Gyroscope) | Tracks hand motion and orientation |
 | ESP32 | Microcontroller for processing signals |
 | Smart Phone | Converts text to speech |
-| AWS EC2 (Future) | Cloud-based processing |
+| AWS EC2 | Cloud-based processing |
 
 ---
 
 ## 💻 Software & Libraries
 **Programming Languages:**
 - Python  
-- C++ (for microcontroller programming)  
+- C
+- Java
+- Javascript  
 
 **Libraries & Dependencies:**
 - numpy ➜ Data processing  
